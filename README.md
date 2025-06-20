@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Rhex Niebres!
 👩🏻‍💻 Full Stack Software Engineer<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at CS50 via edX Harvard University – edX <br/>
+👩🏻‍🎓 Studied [Computer Science]([https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)) at CS50 via edX Harvard University – edX <br/>
+👩🏻‍🎓 [Studied Full-Stack javaScript Course](https://www.theodinproject.com/) at The Odin Project (T.O.P)
 
 # 💻 Tech Stack
 #### **Languages**
