@@ -7,9 +7,12 @@
 👩🏻‍🎓 Studied [Full-Stack javaScript Course](https://www.theodinproject.com) at The Odin Project (T.O.P)
 
 ## 📫 Contact Me
-
 [![Email](https://img.shields.io/badge/Email-rhexniebres@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhexniebres@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhexniebres)
+# Personal Website
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://rhexniebres.dev](https://rhexniebres.netlify.app/))
+
 
 # 💻 Tech Stack
 #### **Languages**
