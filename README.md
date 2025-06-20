@@ -1,7 +1,10 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 
-# 👋 Hi, I'm Rhex Niebres!
-👩🏻‍💻 Full Stack Software Engineer<br/>
+# Hello 👋
+# I'm Rhex Niebres
+# Full Stack Web Developer
+# based in the Philippines<br/>
+
 👩🏻‍🎓 Studied [Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) at CS50 via edX Harvard University – edX <br/>
 👩🏻‍🎓 Studied [Full-Stack javaScript Course](https://www.theodinproject.com) at The Odin Project (T.O.P)
 
