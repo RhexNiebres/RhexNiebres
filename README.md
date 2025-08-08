@@ -45,6 +45,8 @@
 ![MVC](https://img.shields.io/badge/MVC_Architecture-4B0082?style=for-the-badge)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C49A?style=for-the-badge)
 ![Event Driven](https://img.shields.io/badge/Event_Driven_Programming-FF69B4?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs_Large_Language_Models-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge)
 
 #### **Deployment & Hosting**
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
